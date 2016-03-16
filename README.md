@@ -9,15 +9,12 @@ TheOGL.com provides an API so that game developers can show our data within thei
 
 #### Example Requests
 
-GET JSON > https://api.theogl.com/games/?dev_id=<id>&key=<api key>
+GET JSON > https://api.theogl.com/games/?dev_id=&key=
 
-| Endpoint | Description |
+| Example | Description |
 | ---- | --------------- |
 | [GET /games/](/games) | Get All Games |
-| [GET /games/game](/games.md#game) | Get Specific Game |
-| [GET /games/videos](/games#videos) | Get Videos |
-| [GET /games/streams](/games#streams) | Get Streams |
-| [GET /games/followers](/games#streams) | Get Followers |
+| [GET /games/game_info/?game_id=&dev_id=&key=](/games.md#game) | Get Specific Game |
 
 ### Leagues
 
