@@ -19,10 +19,10 @@ GET JSON > https://api.theogl.com/games/?dev_id=<id>&key=<api key>
 | [GET /games/streams](/games#streams) | Get Streams |
 | [GET /games/followers](/games#streams) | Get Followers |
 
-### [Leagues]
+### Leagues
 
-### [Tournaments]
+### Tournaments
 
-### [Teams]
+### Teams
 
-### [Players]
+### Players
