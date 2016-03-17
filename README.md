@@ -18,6 +18,8 @@ GET JSON > https://api.theogl.com/games/?dev_id=&key=
 
 ### Leagues
 
+
+
 ### Tournaments
 
 ### Teams
