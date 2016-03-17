@@ -5,7 +5,7 @@ API Documentation for TheOGL.com
 
 TheOGL.com provides an API so that game developers can show our data within their game. The API is not intended for web use. If you wish to use this API on your website, please email us at api@theogl.com and let us know what your plans are.
 
-By using the TheOGL.com API you agree to the following [API Terms of Service](http://wwww.theogl.com/p/api-terms-of-service) and the [Terms of Service}(http://wwww.theogl.com/p/terms-of-service) for TheOGL.com.
+By using the TheOGL.com API you agree to the following [API Terms of Service](http://www.theogl.com/p/api-terms-of-service) and the [Terms of Service](http://www.theogl.com/p/terms-of-service) for TheOGL.com.
 
 #### Example Requests
 
