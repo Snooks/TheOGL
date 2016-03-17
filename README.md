@@ -18,7 +18,10 @@ GET JSON > https://api.theogl.com/games/?dev_id=&key=
 
 ### Leagues
 
-
+| Example | Description |
+| ---- | --------------- |
+| [GET /leagues/](/leagues) | Get All Leagues |
+| GET /leagues/league_info/?league_id=&dev_id=&key= | Get Specific Game |
 
 ### Tournaments
 
