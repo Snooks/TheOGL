@@ -25,6 +25,21 @@ GET JSON > https://api.theogl.com/games/?dev_id=&key=
 
 ### Tournaments
 
+| Example | Description |
+| ---- | --------------- |
+| GET /tournaments/ | Get All Leagues |
+| GET /tournaments/tournament_info/?tournament_id=&dev_id=&key= | Get Specific Game |
+
 ### Teams
 
+| Example | Description |
+| ---- | --------------- |
+| GET /teams/ | Get All Leagues |
+| GET /teams/team_info/?team_id=&dev_id=&key= | Get Specific Game |
+
 ### Players
+
+| Example | Description |
+| ---- | --------------- |
+| GET /players/ | Get All Leagues |
+| GET /player/player_info/?player_id=&dev_id=&key= | Get Specific Game |
